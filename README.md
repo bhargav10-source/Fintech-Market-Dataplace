@@ -17,9 +17,4 @@ Unlike a generic data portal, it ensures compliance, governance, and controlled 
 - Needs to verify dataset freshness and owner details
 - Requires easy, transparent request process
 
-## Screenshots & Mockups
-_Add your UI/UX images here once available._
 
----
-
-## Repository Structure
